@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: elisa_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <span>Pre-Doctoral Research Fellow</span>
