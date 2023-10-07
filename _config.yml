@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: <span style="font-size: 14px;">Elisa X Chen</span>
-middle_name: <span style="font-size: 14px;">Elisa X Chen</span>
+first_name: Elisa X Chen
+middle_name: Elisa X Chen
 last_name:
 email: xchen97@uchicago.edu
 #description: > # the ">" symbol means to ignore newlines until "footer_text:"
