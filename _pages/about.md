@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> she/her</p>
-    <p> xchen97:mage:@uchicago.edu </p>
+    <p> xchen97&#x1F9D9;@uchicago.edu </p>
     <p> </p>
 
 news: false  # includes a list of news items
