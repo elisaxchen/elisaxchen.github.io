@@ -7,11 +7,11 @@ permalink: /
 profile:
   align: left
   image: elisa_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <span>Pre-Doctoral Research Fellow</span>
-    <p>Harris School of Public Policy</p>
-    <p>University of Chicago</p>
+    <p> she/her</p>
+    <p> xchen97 :mage: @uchicago.edu </p>
+    <p> </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
