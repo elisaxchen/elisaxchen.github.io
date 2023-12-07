@@ -4,7 +4,7 @@ permalink: /software/
 title: Software
 description: Open-Source Packages
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 [MiiENLP](https://github.com/miielab/miienlp): 
