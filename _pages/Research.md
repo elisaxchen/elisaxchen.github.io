@@ -14,4 +14,4 @@ Research in Progress:
 
 “Shades of School Leadership: Skin Color Demographics among Superintendents” with Anjali Adukia and Rachel White
 
-“Colorism and Education in Ghana” with Anjali Adukia, Esther Duflo, and Pascaline Dupas (Data collection completed)
+“Colorism and Education in Ghana” with Anjali Adukia, Esther Duflo, and Pascaline Dupas (Data Collection Completed)
