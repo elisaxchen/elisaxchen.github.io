@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p> Email: xchen97&#x1F9D9;@uchicago.edu </p>
     <p> </p>
-    <p> Github: @elisaxchen </p>
+    <p> Github: <a href="http://github.com/elisaxchen">elisaxchen</a> </p>
     <p> </p>
-    <p> X: @elisaxchen </p>
+    <p> Twitter: <a href="http://twitter.com/elisaxchen">@elisaxchen</a> </p>
     <p> </p>
 
 news: false  # includes a list of news items
@@ -30,4 +30,4 @@ My long-term goal is to use a combination of methods such as field experiments, 
 
 I received an undergraduate degree with triple majors in mathematics, economics, and history from the University of Wisconsin-Madison, and a Master of Public Policy degree from the University of Chicago.
 
-Outside of work, I play the harp and have had the pleasure of performing at several Chicago Public Libraries and religious institutions! :) 
+Outside of work, I play the harp and have had the pleasure of performing at several Chicago Public Libraries and cultural institutions! :) 
