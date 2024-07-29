@@ -21,13 +21,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+Hello! I am a first-year PhD student at Harvard studying education policy, development economics, and data science. I examine how dynamic human interactions transmit preferences that shape individuals' educational and socioeconomic outcomes. Methodologically, I develop computational methods, including techniques in natural language processing and computer vision, to construct large-scale datasets from historical and contemporary archives. I also conduct field experiments, employ causal inference methods, and draw insights from behavioral sciences and the humanities.
 
-Hello! I’m a Pre-doctoral Research Professional at the Harris School of Public Policy, University of Chicago. Currently, I work with [Anjali Adukia](https://voices.uchicago.edu/anjali/) and the wonderful team at the [MiiE lab](https://voices.uchicago.edu/miielab/) to examine inequality in representation in education using natural language processing and computer vision techniques. I also work on development projects that explore the relationship between education, marriage, health, migration, and individuals’ fixed physical characteristics such as skin color in Bangladesh and Ghana.
-
-Broadly, I am interested in development economics and labor economics with a focus on education and gender, particularly in examining how social interactions transmit preferences that shape socio-economic outcomes. 
-
-My long-term goal is to use a combination of methods such as field experiments, quasi-experiments, and computational tools to conduct research that benefits people living on the periphery in developing countries, and in the US.
-
-I received an undergraduate degree with triple majors in mathematics, economics, and history from the University of Wisconsin-Madison, and a Master of Public Policy degree from the University of Chicago.
+Previously, I worked as a Predoctoral Fellow and the Director of Computer Vision at the [MiiE lab](https://voices.uchicago.edu/miielab/) at the Harris School of Public Policy, University of Chicago. I received my undergraduate degree with triple majors in mathematics, economics, and history from the University of Wisconsin-Madison, and a Master of Public Policy from the University of Chicago.
 
 Outside of work, I play the harp and have had the pleasure of performing at several Chicago Public Libraries and cultural institutions! :) 
