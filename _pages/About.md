@@ -9,8 +9,8 @@ profile:
   image: elisa_pic1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Email: elisachen@g.harvard.edu </p>
-    <p> </p>
+    <p> Email: elisachen@g.harvard.edu 
+    <p>
     <p> Github: <a href="http://github.com/elisaxchen">elisaxchen</a> </p>
     <p> </p>
     <p> Twitter: <a href="http://twitter.com/elisaxchen">@elisaxchen</a> </p>
