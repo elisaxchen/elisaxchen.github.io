@@ -1,7 +1,6 @@
 # .github/flat.yaml
 
 # This section defines the steps to fetch data from each theater's website.
-# Each step downloads the HTML of a schedule page.
 steps:
   - name: brattle
     http_url: https://brattlefilm.org/coming-soon/
@@ -17,22 +16,19 @@ steps:
     
 # This section defines what to do after the files are downloaded.
 postprocess:
-  # We use the Deno runtime to execute our JavaScript scraper.
   - uses: denoland/deno-run@v1
     with:
-      # The script to run.
       script: postprocess.js
-      # The command to execute the script.
-      # It takes all downloaded HTML files as input and specifies a single output file.
       entrypoint: |
         deno run --allow-read --allow-write postprocess.js brattle.html coolidge.html somerville.html schedule.json
 
-# This section tells Flat Data to commit the resulting files back to the repository.
+# This section tells Flat Data to commit the resulting files.
 commit:
   author_name: Movie Schedule Bot
-  author_email: elisa.x.chen@gmail.com
+  author_email: bot@example.com
   message: "Update movie schedules"
+  # IMPORTANT: This pushes the final file to your live website branch.
   push_to_branch: gh-pages
-  # We only need to commit the final, combined JSON file.
   files:
     - schedule.json
+
