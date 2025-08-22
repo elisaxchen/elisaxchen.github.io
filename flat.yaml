@@ -32,7 +32,7 @@ commit:
   author_name: Movie Schedule Bot
   author_email: elisa.x.chen@gmail.com
   message: "Update movie schedules"
-  push_to_branch: main
+  push_to_branch: gh-pages
   # We only need to commit the final, combined JSON file.
   files:
     - schedule.json
