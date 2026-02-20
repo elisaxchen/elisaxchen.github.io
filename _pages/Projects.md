@@ -8,7 +8,7 @@ nav_order: 3
 
 I love making and fixing things. I spent enough time volunteering in bike shops to call myself a bike mechanic in a previous life, but now I enjoy building tech products that (1) connect people better socially (I study social cohesion, as you can see!) or (2) support missions and social values I believe in. I love elegant design and I'm quite obsessed with it.
 
-*Here are some that are open source and free to use.*
+*Here are some that are open source and free to use. If you have any ideas, and would love to collaborate, feel free to send me an email.*
 
 <div class="project-item">
 <h3><span class="project-date">Feb 2026</span><span class="project-dot">·</span><a href="https://elisaxchen.github.io/cambridge-screens/">Cambridge Screens</a></h3>
