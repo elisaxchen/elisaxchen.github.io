@@ -9,12 +9,10 @@ profile:
   image: elisa_ivy.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Email: elisachen@g.harvard.edu 
-    <p>
-    <p> Github: <a href="http://github.com/elisaxchen">elisaxchen</a> </p>
-    <p> </p>
-    <p> Twitter: <a href="http://twitter.com/elisaxchen">@elisaxchen</a> </p>
-    <p> </p>
+    <p><i class="fa-solid fa-envelope" style="color: var(--global-theme-color); width: 18px; text-align: center;"></i> elisachen@g.harvard.edu</p>
+    <p><i class="fa-brands fa-github" style="color: var(--global-theme-color); width: 18px; text-align: center;"></i> <a href="https://github.com/elisaxchen">elisaxchen</a></p>
+    <p><i class="fa-brands fa-twitter" style="color: var(--global-theme-color); width: 18px; text-align: center;"></i> <a href="https://twitter.com/elisaxchen">@elisaxchen</a></p>
+    <p><i class="fa-solid fa-cloud" style="color: var(--global-theme-color); width: 18px; text-align: center;"></i> <a href="https://bsky.app/profile/elisaxchen.bsky.social">elisaxchen.bsky.social</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
