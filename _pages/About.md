@@ -25,9 +25,9 @@ Hello! I am a second-year PhD student in Education Policy at Harvard. I study ho
 
 My research has two strands:
 
-1. <strong style="color: var(--global-theme-color)">AI in Education in Developing Contexts:</strong> Most of this work is in collaboration with the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS. We build partnerships, develop human-centered AI tools, and evaluate their effectiveness at scale to support teacher training and student learning in developing countries.
+1. <strong style="color: var(--global-theme-color) !important">AI in Education in Developing Contexts:</strong> Most of this work is in collaboration with the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS. We build partnerships, develop human-centered AI tools, and evaluate their effectiveness at scale to support teacher training and student learning in developing countries.
 
-2. <strong style="color: var(--global-theme-color)">Education, Prejudice Reduction, and Social Cohesion:</strong> I study how schools can serve as sites for social cohesion, particularly around gender and race, and how the norms and preferences shaped by everyday interactions in schools influence people's educational and socioeconomic trajectories.
+2. <strong style="color: var(--global-theme-color) !important">Education, Prejudice Reduction, and Social Cohesion:</strong> I study how schools can serve as sites for social cohesion, particularly around gender and race, and how the norms and preferences shaped by everyday interactions in schools influence people's educational and socioeconomic trajectories.
 
 I am trained as an economist, but my work is broadly interdisciplinary: I develop computational methods, including natural language processing and computer vision, to construct large-scale datasets from historical and contemporary archives. I also conduct field experiments, employ causal inference methods, and draw insights from behavioral sciences and the humanities.
 
