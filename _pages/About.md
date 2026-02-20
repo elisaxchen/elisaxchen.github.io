@@ -23,11 +23,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hello! I am a second-year PhD student in Education Policy at Harvard. I study how policy interventions in education can promote economic development and social cohesion.
 
-My research has two strands: (1) AI in education in developing contexts, and (2) education, prejudice reduction, and social cohesion.
+My research has two strands:
 
-On the first, most of this work is in collaboration with the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS. We build partnerships, develop human-centered AI tools, and evaluate their effectiveness at scale to support teacher training and student learning in developing countries.
+1. <span style="color: var(--global-theme-color)">**AI in Education in Developing Contexts:**</span> Most of this work is in collaboration with the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS. We build partnerships, develop human-centered AI tools, and evaluate their effectiveness at scale to support teacher training and student learning in developing countries.
 
-On the second, I study how schools can serve as sites for social cohesion, particularly around gender and race, and how the social norms and preferences that form through everyday interactions in schools shape people's educational and socioeconomic trajectories.
+2. <span style="color: var(--global-theme-color)">**Education, Prejudice Reduction, and Social Cohesion:**</span> I study how schools can serve as sites for social cohesion, particularly around gender and race, and how the norms and preferences shaped by everyday interactions in schools influence people's educational and socioeconomic trajectories.
 
 I am trained as an economist, but my work is broadly interdisciplinary: I develop computational methods, including natural language processing and computer vision, to construct large-scale datasets from historical and contemporary archives. I also conduct field experiments, employ causal inference methods, and draw insights from behavioral sciences and the humanities.
 
