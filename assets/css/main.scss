@@ -24,3 +24,34 @@ $max-content-width: {{ site.max_width }};
   color: var(--global-theme-color);
   font-weight: bold;
 }
+
+// Projects page styling
+.project-item {
+  margin-bottom: 2.5em;
+}
+.project-item h3 {
+  margin: 0 0 0.3em 0;
+  font-size: 1.15em;
+}
+.project-date {
+  color: var(--global-theme-color);
+  font-weight: 400;
+}
+.project-dot {
+  color: #ccc;
+  margin: 0 0.4em;
+}
+.project-subtitle {
+  color: var(--global-text-color-light);
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+}
+.project-context {
+  font-size: 0.9em;
+  color: #777;
+  margin-bottom: 0.8em;
+  font-style: italic;
+}
+.project-item p {
+  margin: 0;
+}
