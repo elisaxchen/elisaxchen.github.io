@@ -21,8 +21,18 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Hello! I am a second-year PhD student at Harvard studying education policy, development economics, and data science. I examine how dynamic human interactions transmit preferences that shape individuals' educational and socioeconomic outcomes. Methodologically, I develop computational methods, including techniques in natural language processing and computer vision, to construct large-scale datasets from historical and contemporary archives. I also conduct field experiments, employ causal inference methods, and draw insights from behavioral sciences and the humanities.
+Hello! I am a second-year PhD student in Education Policy at Harvard. I study how policy interventions in education can promote economic development and social cohesion.
 
-Previously, I worked as a Predoctoral Fellow and the Director of Computer Vision at the [MiiE lab](https://voices.uchicago.edu/miielab/) at the Harris School of Public Policy, University of Chicago. I received my undergraduate degree with triple majors in mathematics, economics, and history from the University of Wisconsin-Madison, and a Master of Public Policy from the University of Chicago.
+My research has two strands: (1) AI in education in developing contexts, and (2) education, prejudice reduction, and social cohesion.
 
-Outside of work, I play the harp and have had the pleasure of performing at several Chicago Public Libraries and cultural institutions! :) 
+On the first, most of this work is in collaboration with the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS. We build partnerships, develop human-centered AI tools, and evaluate their effectiveness at scale to support teacher training and student learning in developing countries.
+
+On the second, I study how schools can serve as sites for social cohesion, particularly around gender and race, and how the social norms and preferences that form through everyday interactions in schools shape people's educational and socioeconomic trajectories.
+
+I am trained as an economist, but my work is broadly interdisciplinary: I develop computational methods, including natural language processing and computer vision, to construct large-scale datasets from historical and contemporary archives. I also conduct field experiments, employ causal inference methods, and draw insights from behavioral sciences and the humanities.
+
+At Harvard, I am affiliated with the [Center for International Development](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the Embedded Development Lab at HGSE, the [Computational Policy Lab](https://policylab.hks.harvard.edu/#projects) at HKS, and the [C.A.R.E.S. Lab](https://cares.gse.harvard.edu/) at HGSE.
+
+Previously, I was a Predoctoral Fellow and Director of Computer Vision at the [MiiE Lab](https://voices.uchicago.edu/miielab/) at the Harris School of Public Policy, University of Chicago, where I was nominated as a [Google Research Innovator 2023](https://cloud.google.com/blog/topics/public-sector/new-google-research-innovators-tackle-wide-range-challenges). I hold a BA in Mathematics, Economics, and History from the University of Wisconsin–Madison and an MPP from the University of Chicago.
+
+Outside of work, I play the harp and have had the pleasure of performing at several Chicago Public Libraries and cultural institutions. I also play drums and bass, and am trying to form a band in the underground music scene in Cambridge. 
